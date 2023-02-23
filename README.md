@@ -2,8 +2,8 @@
 
 
 ### Script - solr_admin
-Help you to create users, groups in Apache Druid, change user passwords and manage access to datasource. 
-Script working with Druid API by HTTP(s).
+Help you to administrate Apache Solr, manage collections, aliases, replicas and etc. 
+Script working with Solr API by HTTP(s).
 
 ### What you can do (console menu):
 	 ----- ALIAS -----
