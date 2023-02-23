@@ -1,2 +1,1 @@
-# solr_tools
-Apache Solr tools
+# solr_admin
